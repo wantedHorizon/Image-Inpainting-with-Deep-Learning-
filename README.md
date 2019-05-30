@@ -1,9 +1,10 @@
-## Image-Inpainting-with-Deep-Learning-GAN vs Auto-Encoder , using PyTorch
+## Image-Inpainting-with-Deep-Learning-
+## GAN vs Auto-Encoder , using PyTorch
 
 
-###CS final project ofI mage-Inpainting 
-Image inpainting, the task of filling in holes in an image. 
-In this video you can see how autoencoder and gan try to guess the missing hole in the image.
+###CS final project of Image-Inpainting 
+Image inpainting- the task of filling in holes in an image. 
+In this image you can see how autoencoder and gan try to guess the missing hole in the image.
 
 
 
